@@ -1,1 +1,1 @@
-# inventory
+# Product inventory
